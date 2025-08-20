@@ -1,4 +1,4 @@
-This is the code example for "log4print", an example
+This is the code example for `log4print`, an example
 logging framework for demonstration purposes.
 
 You'll find the description of this code in Chapter 2.
